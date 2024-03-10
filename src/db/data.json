@@ -1,0 +1,452 @@
+[
+  {
+      "name": "Computer Science Master's Program",
+      "university": "Stanford University",
+      "country": "USA",
+      "duration": 2,
+      "cost": 50000,
+      "applicationDeadline": 1678891600000,
+      "language": "English"
+  },
+  {
+      "name": "Business Administration Bachelor's Program",
+      "university": "Harvard University",
+      "country": "USA",
+      "duration": 4,
+      "cost": 60000,
+      "applicationDeadline": 1677702000000,
+      "language": "English"
+  },
+  {
+      "name": "Medicine Program",
+      "university": "Bogazici University",
+      "country": "Turkey",
+      "duration": 4,
+      "cost": 20000,
+      "applicationDeadline": 1675074000000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Engineering Master's Program",
+      "university": "Massachusetts Institute of Technology (MIT)",
+      "country": "USA",
+      "duration": 2,
+      "cost": 55000,
+      "applicationDeadline": 1678606800000,
+      "language": "English"
+  },
+  {
+      "name": "Economics Bachelor's Program",
+      "university": "Istanbul Technical University",
+      "country": "Turkey",
+      "duration": 2,
+      "cost": 25000,
+      "applicationDeadline": 1675150800000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Architecture Program",
+      "university": "University of California, Berkeley",
+      "country": "USA",
+      "duration": 4,
+      "cost": 48000,
+      "applicationDeadline": 1679029200000,
+      "language": "English"
+  },
+  {
+      "name": "Law Master's Program",
+      "university": "Yale University",
+      "country": "USA",
+      "duration": 2,
+      "cost": 55000,
+      "applicationDeadline": 1678741200000,
+      "language": "English"
+  },
+  {
+      "name": "Psychology Bachelor's Program",
+      "university": "Middle East Technical University",
+      "country": "Turkey",
+      "duration": 4,
+      "cost": 30000,
+      "applicationDeadline": 1675400400000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Environmental Science Program",
+      "university": "Bilkent University",
+      "country": "Turkey",
+      "duration": 2,
+      "cost": 35000,
+      "applicationDeadline": 1676792400000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Political Science Bachelor's Program",
+      "university": "Sciences Po",
+      "country": "France",
+      "duration": 2,
+      "cost": 15000,
+      "applicationDeadline": 1677858000000,
+      "language": "French"
+  },
+  {
+      "name": "History Program",
+      "university": "Hacettepe University",
+      "country": "Turkey",
+      "duration": 2,
+      "cost": 22000,
+      "applicationDeadline": 1675208400000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Physics Bachelor's Program",
+      "university": "Istanbul University",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 20000,
+      "applicationDeadline": 1675563600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Mathematics Program",
+      "university": "Ankara University",
+      "country": "Turkey",
+      "duration": 4,
+      "cost": 1000000,
+      "applicationDeadline": 1677973200000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Film Studies Program",
+      "university": "New York University (NYU)",
+      "country": "USA",
+      "duration": 4,
+      "cost": 50000,
+      "applicationDeadline": 1678880400000,
+      "language": "English"
+  },
+  {
+      "name": "Sociology Bachelor's Program",
+      "university": "Koc University",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 12000,
+      "applicationDeadline": 1675314000000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Chemistry Program",
+      "university": "California Institute of Technology (Caltech)",
+      "country": "USA",
+      "duration": 4,
+      "cost": 60000,
+      "applicationDeadline": 1678784400000,
+      "language": "English"
+  },
+  {
+      "name": "Music Bachelor's Program",
+      "university": "Sorbonne University",
+      "country": "France",
+      "duration": 4,
+      "cost": 55000,
+      "applicationDeadline": 1678614000000,
+      "language": "French"
+  },
+  {
+      "name": "Art History Program",
+      "university": "Paris-Sud University",
+      "country": "France",
+      "duration": 3,
+      "cost": 18000,
+      "applicationDeadline": 1678962000000,
+      "language": "French"
+  },
+  {
+      "name": "Business Management Program",
+      "university": "University of Paris-Saclay",
+      "country": "France",
+      "duration": 2,
+      "cost": 50000,
+      "applicationDeadline": 1679158800000,
+      "language": "French"
+  },
+  {
+      "name": "Electrical Engineering Bachelor's Program",
+      "university": "Pierre and Marie Curie University",
+      "country": "France",
+      "duration": 4,
+      "cost": 12000000,
+      "applicationDeadline": 1678846800000,
+      "language": "Korean"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Paris Diderot University",
+      "country": "France",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "French"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Yildiz Technical University",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Ege University",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Marmara University",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Gazi University",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "ODTU Technopolis",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Izmir Institute of Technology",
+      "country": "Turkey",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "Turkish"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Zaporizhzhia National Technical University",
+      "country": "Ukraine",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "National Technical University of Ukraine",
+      "country": "Ukraine",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "V.N. Karazin Kharkiv National University",
+      "country": "Ukraine",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Sumy State University",
+      "country": "Ukraine",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "National Aviation University",
+      "country": "Ukraine",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "University of Hamburg",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "RWTH Aachen University",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "University of Bonn",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "University of Göttingen",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "University of Freiburg",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Humboldt University of Berlin",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Heidelberg University",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Ludwig Maximilian University of Munich",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Technical University of Munich ",
+      "country": "Germany",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "University of Amsterdam",
+      "country": "Netherlands",
+      "duration": 4,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Delft University of Technology",
+      "country": "Netherlands",
+      "duration": 4,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Leiden University",
+      "country": "Netherlands",
+      "duration": 4,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Utrecht University",
+      "country": "Netherlands",
+      "duration": 4,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Erasmus University Rotterdam",
+      "country": "Netherlands",
+      "duration": 4,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Wageningen University & Research",
+      "country": "Netherlands",
+      "duration": 4,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Radboud University Nijmegen",
+      "country": "Netherlands",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "VU Amsterdam",
+      "country": "Netherlands",
+      "duration": 3,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  },
+  {
+      "name": "Linguistics Program",
+      "university": "Tilburg University",
+      "country": "Netherlands",
+      "duration": 2,
+      "cost": 52000,
+      "applicationDeadline": 1679043600000,
+      "language": "English"
+  }
+]
